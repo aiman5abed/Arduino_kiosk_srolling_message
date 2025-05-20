@@ -14,6 +14,7 @@ A customizable scrolling message display for kiosks or digital signage, implemen
 * [Installation](#installation)
 * [Usage](#usage)
 * [Repository Structure](#repository-structure)
+* [Live Simulation](#live-simulation)
 * [License & Credits](#license--credits)
 
 ---
@@ -97,6 +98,14 @@ KioskScrollingMessage/
 ├── presentation_kiosk.pptx     # Project presentation
 └── README.md                   # This file
 ```
+##  Live Simulation
+
+Try the **Kiosk Scrolling Message Display** live on Wokwi:
+
+[![Run on Wokwi](https://img.shields.io/badge/Wokwi-Simulator-green?logo=arduino)](https://wokwi.com/projects/426850658354700289)
+
+[![Kiosk Preview](./kioskScrollingMessage.png)](https://wokwi.com/projects/426850658354700289)
+
 ## License & Credits
 
 Tel Aviv University Educational License (TAU-EL)
