@@ -99,10 +99,26 @@ KioskScrollingMessage/
 ```
 ## License & Credits
 
-This project is licensed under the Tel Aviv University Educational License (TAU-EL).
-Developed as part of lab coursework at the Faculty of Engineering, TAU.
+Tel Aviv University Educational License (TAU-EL)
 
-Authors:
+Copyright (c) 2025 Aiman Abed
 
-Aiman Abed – developer   Edward Khoury – Co-developer
-<p align="center"> <img src="https://en-engineering.tau.ac.il/sites/engineering-english.tau.ac.il/files/TAU_facultot_logos-01-handasa_0.png" alt="Tel Aviv University" height="72" width="212"> </p> ```
+This project was developed as part of the Real-Time Systems Laboratory course (0512-4494) at Tel Aviv University.
+
+Permission is hereby granted, free of charge, to use, copy, modify, and distribute this project and its components for **educational and non-commercial purposes**, subject to the following conditions:
+
+1. This software is provided for academic and instructional purposes only.
+2. Any reuse, modification, or publication must credit the original authors and Tel Aviv University.
+3. This license does not grant permission for commercial use or redistribution in compiled or uncompiled form.
+4. The software is provided "as is", without warranty of any kind, express or implied.
+
+For permissions beyond the scope of this license, please contact Tel Aviv University or the original authors.
+
+Developed by:
+
+Aiman Abed – developer
+Edward Khoury – Co-developer
+
+<p align="center">
+  <img src="https://en-engineering.tau.ac.il/sites/engineering-english.tau.ac.il/files/TAU_facultot_logos-01-handasa_0.png" alt="Tel Aviv University" height="72" width="212">
+</p>
